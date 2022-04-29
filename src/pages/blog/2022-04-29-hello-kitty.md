@@ -4,7 +4,7 @@ title: Hello kitty
 date: 2022-04-29T20:04:17.158Z
 description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
 featuredpost: true
-featuredimage: https://images.unsplash.com/photo-1650744367607-33b6dcb5eabc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+featuredimage: /img/home-jumbotron.jpg
 tags:
   - Coffee
   - Netlify
